@@ -10,6 +10,16 @@ For someone who can use the computer.
 [![Neovim](https://img.shields.io/badge/Neovim-0.9+-green.svg?style=for-the-badge\&logo=neovim)](https://neovim.io)
 [![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge\&logo=lua)](https://www.lua.org)
 
+<img width="1365" height="767" alt="2025-11-28_09-42" src="https://github.com/user-attachments/assets/57863d49-a8b2-4934-884b-9fda3be21770" />
+
+<img width="1365" height="767" alt="2025-11-28_09-44" src="https://github.com/user-attachments/assets/645d1f51-12fd-4737-958c-b827ab64eaf3" />
+
+<img width="1365" height="767" alt="2025-11-28_09-45" src="https://github.com/user-attachments/assets/7222e27c-6e1d-4053-9777-4b9678d042ab" />
+
+<img width="1365" height="767" alt="2025-11-28_09-46" src="https://github.com/user-attachments/assets/cf135a2f-04f6-49a6-9459-605f3b915881" />
+
+<img width="1365" height="767" alt="2025-11-28_09-45_1" src="https://github.com/user-attachments/assets/5f7808d3-9024-4cd4-9db6-adfb69de9466" />
+
 </div>
 
 ---
