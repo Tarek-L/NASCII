@@ -53,6 +53,33 @@ For someone who can use the computer.
         └── zen.lua
 ```
 
+## ⇁  Requirements
+
+*    Neovim 0.9 +
+*    Nerd Font as your terminal font (preferable).
+        Make sure the nerd font you set doesn't end with Mono to prevent small icons.
+        Example : JetbrainsMono Nerd Font and not JetbrainsMono Nerd Font Mono
+        The *Mono fonts would work too but icons will slightly look smaller.
+*    Ripgrep is required for grep searching with Telescope (OPTIONAL).
+*    GCC, Windows users must have mingw installed and set on path.
+*    Make, Windows users must have GnuWin32 installed and set on path.
+*    Delete old neovim folders (check commands below)
+
+## ⇁ Installation
+
+clean nvim dir usally with
+
+rm -rf ~/.config/nvim
+rm -rf ~/.local/state/nvim
+rm -rf ~/.local/share/nvim
+
+it goes usally something like this
+
+git clone https://github.com/Tarek-L/NASCII ~/.config/nvim && nvim
+
+Run :MasonInstallAll command after lazy.nvim finishes downloading plugins.
+Delete the .git folder from nvim folder.
+
 ---
 
 ## ⇁  Features
@@ -112,16 +139,17 @@ Then run `:Mason` to install.
 
 ---
 
-## ⇁  Requirements
+## ⇁  Installing plugins
 
-* Neovim 0.9+
+make a plugin.lua file in the plugin dir with it's name, check how other plugins file are written to see how i do it
+
 * [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 * [mason.nvim](https://github.com/williamboman/mason.nvim)
 * [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 * [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 * [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 * [zen-mode.nvim](https://github.com/folke/zen-mode.nvim)
-* and others for other plugins you can see them in the plugins files just get lazy and it will do the job for you.
+* just get lazy and it will do the job for you.
 
 ---
 
