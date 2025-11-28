@@ -68,15 +68,15 @@ For someone who can use the computer.
 ## ⇁ Installation
 
 clean nvim dir usally with
-
+```
 rm -rf ~/.config/nvim
 rm -rf ~/.local/state/nvim
 rm -rf ~/.local/share/nvim
-
+```
 it goes usally something like this
-
+```
 git clone https://github.com/Tarek-L/NASCII ~/.config/nvim && nvim
-
+```
 Run :MasonInstallAll command after lazy.nvim finishes downloading plugins.
 Delete the .git folder from nvim folder.
 
@@ -171,5 +171,5 @@ make a plugin.lua file in the plugin dir with it's name, check how other plugins
 
 ---
 
-GO do something usefull.
+GO do something useful.
 
