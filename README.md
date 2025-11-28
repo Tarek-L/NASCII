@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## ⇁  NEOVIM CONFIG
+## ⇁  NEOVIM CONFIG / DISTRO
 
 Modular, fast, extensible and ASCII.
 Focused on being fast and ugly. (" not the fastest ")
