@@ -4,7 +4,7 @@
 ## ⇁  NEOVIM CONFIG
 
 Modular, fast, extensible and ASCII.
-Focused on beinf fast and ugly.
+Focused on being fast and ugly. (" not the fastest ")
 For someone who can use the computer.
 
 [![Neovim](https://img.shields.io/badge/Neovim-0.9+-green.svg?style=for-the-badge\&logo=neovim)](https://neovim.io)
